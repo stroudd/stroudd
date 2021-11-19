@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dave
 - 👀 I’m interested in learning ML/AI through projects.
-- 🌱 I’m currently learning National Language Processing as my first focus area.
 - 💞️ I’m looking to collaborate on anything ML/AI.
 
 <!---
